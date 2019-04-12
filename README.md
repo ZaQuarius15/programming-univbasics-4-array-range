@@ -23,7 +23,7 @@ flexibility to the code and reduces its size.
 Parenthesis are not necessary to define a range, but if you want to call methods
 on your range you will need them.
 
-The range class includes Enumerable, so you get all the powerful iteration
+The range class includes `Enumerable`, so you get all the powerful iteration
 methods without having to convert the range into an array.
 
 
