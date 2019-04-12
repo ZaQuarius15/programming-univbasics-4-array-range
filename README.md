@@ -68,8 +68,7 @@ better implement your own objects that support range and sequential operations.
 
 ## Resources
 
-* [Ruby Ranges: How Do They
-  Work?](https://www.rubyguides.com/2016/06/ruby-ranges-how-do-they-work/)
+* [Ruby Ranges: How Do They Work?](https://www.rubyguides.com/2016/06/ruby-ranges-how-do-they-work/)
 * [Ruby Ranges](https://www.techotopia.com/index.php/Ruby_Ranges)
 * [Ranges in Ruby](http://rubylearning.com/satishtalim/ruby_ranges.html)
 * [Ruby - Ranges](https://www.tutorialspoint.com/ruby/ruby_ranges.htm)
